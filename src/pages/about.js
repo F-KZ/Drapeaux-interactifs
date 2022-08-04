@@ -8,6 +8,7 @@ import Navigation from "../components/Navigation";
 const about = () => {
     return (
         <div>
+            <Navigation />
             <h1>A PROPOS</h1>
             <br />
             <p> En terbordon mia surtere ambaux ni devis mi li. Kaj pafilbruo ne viroj la kiu pafiloj. Ne unu el kun vi aux mi gxin turko. Bestoj vi la povus sciis kion estus, siaj kaj sed mi difektajxojn la. Elnutrita vidi kunprenos staras onklino blovi kaj eltiris prosperis,
