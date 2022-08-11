@@ -8,6 +8,8 @@ import Navigation from "../components/Navigation";
 const about = () => {
     return (
         <div>
+        
+            <Logo />
             <Navigation />
             <h1>A PROPOS</h1>
             <br />
